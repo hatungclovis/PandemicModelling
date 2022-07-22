@@ -1,2 +1,2 @@
 # PandemicModelling
-Open the pdf file to read the whole report on analysis done of Covid spread vs human impact on its spread
+Open the pdf file to read the whole report and analysis done on Covid spread vs human impact on the spread of coronavirus
